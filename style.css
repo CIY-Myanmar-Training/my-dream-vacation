@@ -1,0 +1,20 @@
+header{
+    background-color : #E03A3E;
+    padding : 50px;
+    text-align : center;
+    color : white;
+}
+ol{
+    font-size : 20px;
+}
+
+h2{
+    color : #E03A3E;
+}
+
+footer{
+    background-color : #E03A3E;
+    padding : 20px;
+    text-align : center;
+    color : white;
+}
